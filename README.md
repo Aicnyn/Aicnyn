@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aicnyn
-- 👀 I’m interested in ... dying
-- 🌱 I’m currently learning ... idk
+- 💜 Hi, I’m @Aicnyn
+- 🌷 I’m interested in ... dying
+- ✨ I’m currently learning ... idk
 - 💞️ I’m looking to collaborate on ... nothing
-- 📫 How to reach me ... don't
+- ✧ How to reach me ... don't
 
 <!---
 Aicnyn/Aicnyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
